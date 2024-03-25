@@ -1,9 +1,22 @@
-### Hi there 👋
+# Hi 👋 I'm Paweł.
+
+I'm self-taught developer who is passionate about creating app from scratch, apps that can help someone in everyday life or just for fun. Actually I'm working with just HTML, CSS and JS. When I gain some experience with these basics, I'm going to learn React and Node to explore some back-end. **Consistency is a key**
+
+## 🌱 I’m currently learning
+- HTML
+- CSS
+- JavaScript
+
+## 🤔 Help
+
+I'm open to any kind of help.
+Now I'm struggling with accessibility.
+
+## Enjoy and have a nice day 😁
+
+
 
 <!--
-**R3tr00o/R3tr00o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
